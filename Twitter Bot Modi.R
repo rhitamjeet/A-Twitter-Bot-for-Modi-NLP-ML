@@ -1,5 +1,5 @@
 ###Project Brief
-# We have extracted the tweets from Prime Minister Modi twitter handle.
+# We have extracted the tweets from Prime Minister Modi's twitter handle.
 # We apply Natural Language Processing(NLP) to gauge the receptionof his tweets among twitterusers 
 # and use it to build a model to predict the popularity of any new tweets based on NLP and Machine Learning.
 # We will call it - A Twitter Bot for Modi
